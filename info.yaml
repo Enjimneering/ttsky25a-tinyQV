@@ -93,6 +93,8 @@ project:
     - "user_peripherals/ubcd/kaktovik.v"
     - "user_peripherals/ubcd/peripheral.v"
     - "user_peripherals/ubcd/ubcd.v"
+    - "user_peripherals/nes_snes_receiver.v"
+    - "user_peripherals/nes_snes_receiver/Receiver_Core.v"
     - "user_peripherals/analog_toolkit/fp_counter.v"
     - "user_peripherals/analog_toolkit/peripheral.v"
     - "user_peripherals/rsa/full_adder.sv"
